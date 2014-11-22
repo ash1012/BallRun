@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="200" height="100" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="bricks" tilewidth="250" tileheight="250">
+  <image source="../all.png" width="750" height="750"/>
+ </tileset>
+ <tileset firstgid="10" name="stars" tilewidth="250" tileheight="250">
+  <image source="../stars.png" width="250" height="250"/>
+ </tileset>
+ <tileset firstgid="11" name="ball" tilewidth="170" tileheight="170">
+  <image source="../ball.png" width="170" height="170"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="200" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEOhDAMBEAamvv/g/lCuICdDTMSpcEBFITWxwEAAAAAAAAAAAAAVPmpVbt57cz5AAAAAAAAAOgxmvV2ZcKyaHbnHQe+yv4H0G+lOeQKX1vvStx7AAAAAAAAAP7NcBMz5zfWKgMHnmAvAaCabw93pP3DdUrsGc8NAAAAAAAAYCWVswbVs/RVa5ODA7PsIwBU8+3hDvPt4xJ7xnMDAAAAAAAAxiRmi0/n9okzBGpragEAABL4ZwIAAAAAAABgF2kzx0n9JvW6c61ZDQAAAAAAAAAAAADIcIbWjh5d/aldp3bmGheizgO8
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="200" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzsEJwDAQA0Hb4Qjuv2FXkJfA5GDmv0JjAAAAAAAAAAAAAAC3vEFb2l+33f5+tRVu7qAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAuZtCuhu0TtAAAAAAAAAAAAAAAQH8HrCkAXA==
+  </data>
+ </layer>
+</map>
